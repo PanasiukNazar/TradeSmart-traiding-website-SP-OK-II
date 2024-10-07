@@ -10183,6 +10183,12 @@ h6,
     padding: 0;
     list-style-type: none;
 }
+
+@media (max-width: 772px) {
+    #email {
+        margin-top: 15px;
+    }
+}
 /* Google Fonts - Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 
